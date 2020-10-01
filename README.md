@@ -1,2 +1,2 @@
 # PLC-INTRODUCTION
-PLC TRAINING
+Programmable Logic Controller TRAINING 
